@@ -1,0 +1,1 @@
+phantomjs rasterize.js http://ariya.github.io/svg/tiger.svg tiger.png
